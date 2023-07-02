@@ -1,6 +1,6 @@
 # homzy2
 
-A new Flutter project.
+A new Flutter project for Feedback screen and app feedback.
 
 ## Getting Started
 
